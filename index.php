@@ -41,12 +41,12 @@
 
     <div class="site-wrapper-reveal">
         <!--============ Infotechno Hero Start ============-->
-        <div class="processing-hero processing-hero-bg">
-            <div class="container">
-                <div class="row align-items-center">
-                    <!--baseline-->
-                    <div class="col-lg-8 col-md-7">
-                        <div class="processing-hero-text wow move-up">
+        <div class="software-innovation-hero-wrapper processing-hero-bg section-space--pt_80" style="padding-bottom:100px">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="software-innovation-hero-wrap wow move-up animated" style="visibility: visible;">
+                            <div class="processing-hero-text wow move-up  animate" style="visibility: visible; opacity: 0;">
                             <h1 class="font-weight--reguler mb-15">Computer Info </h1>
                             <h4><span class="text-color-secondary">A Complete IT Solution</span></h4>
                             <h6>Quality in Everything we do…</h6>
@@ -67,17 +67,16 @@
                                 </div>-->
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-5">
-                        <div class="processing-hero-images-wrap wow move-up">
-                            <div class="processing-hero-images">
-                                <img class="img-fluid" src="assets/images/hero/slider-processing-slide-01-image-01.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="software-innovation-hero-image animation_images three mt-30">
+                                <img src="assets/images/hero/soft-01.png" class="img-fluid" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
         <!--============ Infotechno Hero End ============-->
 
         <!--===========  feature-images-wrapper  Start =============-->
