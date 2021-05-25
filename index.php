@@ -121,10 +121,10 @@
                                     <a href="services.php#data_recovery" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/img/data-recovery.png" alt="">
+                                                <img class="img-fulid" src="assets/img/firewall-security.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Data Recovery</h6>
+                                                <h6 class="heading">UTM/Firewall Security solution</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -196,10 +196,10 @@
                                     <a href="services.php#rental_services" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/img/cms.png" alt="">
+                                                <img class="img-fulid" src="assets/img/cloud-services.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Rental Services</h6>
+                                                <h6 class="heading">Cloud Computing</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -226,10 +226,10 @@
                                     <a href="services.php#software_installation" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/img/work.png" alt="">
+                                                <img class="img-fulid" src="assets/img/cloud-backup.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Software Installation, Training & Mail / Data Migration</h6>
+                                                <h6 class="heading">Cloud Backup Solutions</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -436,9 +436,9 @@
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">IT Design</h5>
+                                            <h5 class="heading">Printing Solutions</h5>
                                             <div class="box-more-info">
-                                                <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                <div class="text">We provide the most reasonable and functional Printing Solutions for companies and businesses worldwide.</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -458,9 +458,9 @@
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">IT Management</h5>
+                                            <h5 class="heading">Office Automation</h5>
                                             <div class="box-more-info">
-                                                <div class="text">It’s possible to simultaneously manage and transform key information from one server to another.</div>
+                                                <div class="text">We provide best in class Office Automation services for all kind of businesses and companies</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -740,6 +740,16 @@
                                             </div>
                                             <div class="brand-logo__image-hover">
                                                 <img src="assets/img/brand-logo/digisol-logo.png" class="img-fluid" alt="">
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide brand-logo brand-logo--slider">
+                                        <a href="#">
+                                            <div class="brand-logo__image">
+                                                <img src="assets/img/brand-logo/acronis-logo.png" class="img-fluid" alt="">
+                                            </div>
+                                            <div class="brand-logo__image-hover">
+                                                <img src="assets/img/brand-logo/acronis-logo.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
