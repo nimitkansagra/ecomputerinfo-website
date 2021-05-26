@@ -45,28 +45,26 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-md-6">
-                            <div class="software-innovation-hero-wrap wow move-up animated" style="visibility: visible;">
-                            <div class="processing-hero-text wow move-up  animate" style="visibility: visible; opacity: 0;">
-                            <h1 class="font-weight--reguler mb-15">Computer Info </h1>
-                            <h4><span class="text-color-secondary">A Complete IT Solution</span></h4>
-                            <h6>Quality in Everything we do…</h6>
-                            <!--<p>Set the trends for desktop & server virtualization technology</p>-->
-                            <div class="hero-button mt-30">
-                                <a href="contact-us.php" class="btn btn--secondary">Contact Us</a>
-                                <!--<div class="hero-popup-video video-popup">
-                                    <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" class="video-link">
-                                        <div class="video-content">
-                                            <div class="video-play">
-                                                <span class="video-play-icon">
-                                            <i class="fa fa-play"></i>
-                                        </span>
+                            <div class="processing-hero-text wow move-up">
+                                <h1 class="font-weight--reguler mb-15">Computer Info </h1>
+                                <h4><span class="text-color-secondary">A Complete IT Solution</span></h4>
+                                <h6>Quality in Everything we do…</h6>
+                                <!--<p>Set the trends for desktop & server virtualization technology</p>-->
+                                <div class="hero-button mt-30">
+                                    <a href="contact-us.php" class="btn btn--secondary">Contact Us</a>
+                                    <!--<div class="hero-popup-video video-popup">
+                                        <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" class="video-link">
+                                            <div class="video-content">
+                                                <div class="video-play">
+                                                    <span class="video-play-icon">
+                                                <i class="fa fa-play"></i>
+                                            </span>
+                                                </div>
+                                                <div class="video-text"> How we work</div>
                                             </div>
-                                            <div class="video-text"> How we work</div>
-                                        </div>
-                                    </a>
-                                </div>-->
-                            </div>
-                        </div>
+                                        </a>
+                                    </div>-->
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -117,13 +115,13 @@
 
                                 <div class="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                     <!-- ht-box-icon Start -->
-                                    <a href="services.php#data_recovery" class="ht-box-images style-02">
+                                    <a href="services.php#firewall_security" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/img/firewall-security.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">UTM/Firewall Security solution</h6>
+                                                <h6 class="heading">UTM/Firewall Security Solutions</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -192,7 +190,7 @@
 
                                 <div class="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                     <!-- ht-box-icon Start -->
-                                    <a href="services.php#rental_services" class="ht-box-images style-02">
+                                    <a href="services.php#cloud_computing" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/img/cloud-services.png" alt="">
@@ -207,13 +205,13 @@
 
                                 <div class="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                     <!-- ht-box-icon Start -->
-                                    <a href="services.php#epabx_installation" class="ht-box-images style-02">
+                                    <a href="services.php#fuel_monitoring_system" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/img/EPABX.png" alt="">
+                                                <img class="img-fulid" src="assets/img/fuel-meter.png" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">EPABX Installation</h6>
+                                                <h6 class="heading">Fuel Monitoring System</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -222,7 +220,7 @@
 
                                 <div class="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
                                     <!-- ht-box-icon Start -->
-                                    <a href="services.php#software_installation" class="ht-box-images style-02">
+                                    <a href="services.php#cloud_backup" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fulid" src="assets/img/cloud-backup.png" alt="">
@@ -431,7 +429,7 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-01.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/printing_solutions.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
@@ -453,7 +451,7 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-02.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/office_automation.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
@@ -475,7 +473,7 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-03.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/data_security.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
@@ -497,7 +495,7 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-04.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/business_reform.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
@@ -520,7 +518,7 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/mitech-home-infotechno-box-large-image_02-330x330.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/infrastructure_plan.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
@@ -543,7 +541,7 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/mitech-home-infotechno-box-large-image_04-330x330.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/firewall.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
@@ -765,16 +763,6 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/brand-logo/frontech-logo.png" class="img-fluid" alt="">
-                                            </div>
-                                            <div class="brand-logo__image-hover">
-                                                <img src="assets/img/brand-logo/frontech-logo.png" class="img-fluid" alt="">
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div class="swiper-slide brand-logo brand-logo--slider">
-                                        <a href="#">
-                                            <div class="brand-logo__image">
                                                 <img src="assets/img/brand-logo/honeywell-logo.png" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
@@ -795,20 +783,20 @@
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/brand-logo/lenovo-logo.png" class="img-fluid" alt="">
+                                                <img src="assets/img/brand-logo/Hikvision_logo.png" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/img/brand-logo/lenovo-logo.png" class="img-fluid" alt="">
+                                                <img src="assets/img/brand-logo/Hikvision_logo.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>
                                     <div class="swiper-slide brand-logo brand-logo--slider">
                                         <a href="#">
                                             <div class="brand-logo__image">
-                                                <img src="assets/img/brand-logo/mercury-logo.png" class="img-fluid" alt="">
+                                                <img src="assets/img/brand-logo/lenovo-logo.png" class="img-fluid" alt="">
                                             </div>
                                             <div class="brand-logo__image-hover">
-                                                <img src="assets/img/brand-logo/mercury-logo.png" class="img-fluid" alt="">
+                                                <img src="assets/img/brand-logo/lenovo-logo.png" class="img-fluid" alt="">
                                             </div>
                                         </a>
                                     </div>

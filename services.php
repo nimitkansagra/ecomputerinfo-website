@@ -81,7 +81,7 @@
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">We provide security services like, CCTV Solutions, Bio-metric Solutions, Access control solutions, Antivirus, Firewall Security & UTM for your network,
+                                            <div class="text mb-30 text-justify">We provide security services like, CCTV Solutions, Bio-metric Solutions, Access control solutions, Antivirus, Firewall Security & UTM for your network,
                                                  which prevents your organization from external malware attack also reduces from misuse of resources. Also we are expertise in storage solutions like NAS, SAS, Storage Server, 
                                                  backup solution, etc which helps your organization from unwanted data loss.</div>
                                             <div class="tab-button">
@@ -102,7 +102,7 @@
                 <div class="row">
                     <div class="col-lg-12 ht-tab-wrap">
                         <div class="tab-content ht-tab__content">
-                            <h4 class="text-center mt-40" id="data_recovery">Data Recovery</h4>
+                            <h4 class="text-center mt-40" id="firewall_security">UTM/Firewall Security solution</h4>
                             <!--<div class="tab-pane fade show active" id="tab_list_06" role="tabpanel">-->
                             <div class="tab-history-wrap">
                                 <div class="row">
@@ -110,15 +110,17 @@
                                         <div class="tab-history-image video-popup mt-30">
                                             <div class="single-popup-wrap">
                                                 <img class="img-fluid"
-                                                    src="assets/images/services/data_recovery.jpg"
+                                                    src="assets/images/services/firewall-security.jpg"
                                                     alt="">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">If you believe you’ve lost data because of a damaged or inaccessible disk, and you have no backup copy, this service is for you! … We have data recovery setup the same software used by outside professional data recovery firms.
-                                                 We can recover your data from many different types of media including hard drives, USB keys; smart media, compact flash almost anything you use to store data. We have four custom-built machines dedicated to data recovery.
+                                            <div class="text mb-30 text-justify">Network security is important for home networks as well as in the business world. 
+                                            Most homes with high-speed internet connections have one or more wireless routers, which could be exploited if not properly secured. 
+                                            A solid network security system helps reduce the risk of data loss, theft, and sabotage. And that can be protected by Firewall / UTM. 
+                                            It protects you from spam mails, phishing, hacking, etc.
                                             </div>
 
                                             <div class="tab-button">
@@ -154,7 +156,7 @@
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">Planning to improve your Digital Presence and generate better Revenue? Look no further! Computer Info is a Web Design Company in Kolkata (West Bengal).
+                                            <div class="text mb-30 text-justify">Planning to improve your Digital Presence and generate better Revenue? Look no further! Computer Info is a Web Design Company in Kolkata (West Bengal).
                                                  Our Web Hosting plans are designed in such a way that it includes all the features you are looking for at the best possible prices.
                                                   We have professionals who can design dynamic websites as well as online portal as per client requirement. 
                                             </div>
@@ -177,7 +179,7 @@
                 <div class="row">
                     <div class="col-lg-12 ht-tab-wrap">
                         <div class="tab-content ht-tab__content">
-                            <h4 class="text-center mt-40" id="software_installation">Software Installation, Training & Mail / Data Migration</h4>
+                            <h4 class="text-center mt-40" id="cloud_backup">Cloud Backups</h4>
                             <!--<div class="tab-pane fade show active" id="tab_list_06" role="tabpanel">-->
                             <div class="tab-history-wrap">
                                 <div class="row">
@@ -185,15 +187,16 @@
                                         <div class="tab-history-image video-popup mt-30">
                                             <div class="single-popup-wrap">
                                                 <img class="img-fluid"
-                                                    src="assets/images/bg/home-processing-video-intro-slider-slide-01-image-01-570x350.jpg"
+                                                    src="assets/images/services/cloud-backup.jpg"
                                                     alt="">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">We provides Original software like Microsoft Windows, MS Office, O365 mail server, Adobe package, Accounting package – Tally, PMS software, customized software, etc. 
-                                                For any kind of management software, during the time of installation we schedule a training session to users for their better understanding.
+                                            <div class="text mb-30 text-justify">Cloud backup is a service in which the data and applications on a business's servers are backed up and stored on a remote server.
+                                                Customers typically backup and restore their data and apps using a web browser or a service provider's control panel.
+                                                With data configuration for smooth transition, creation of robust disaster recovery plan, customizing where and how data is stored, cloud reduces cost while storing data from millions of users.
                                             </div>
 
                                             <div class="tab-button">
@@ -229,7 +232,7 @@
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">Computer Info providing 100% guaranteed satisfaction and support for all services. We are one of the leading suppliers of a wide range of authentic and high functional accessories and components for laptops, desktops, printers, Servers, computer accessories, Sales and Service. Since, we know that the complete functioning of the final product.
+                                            <div class="text mb-30 text-justify">Computer Info providing 100% guaranteed satisfaction and support for all services. We are one of the leading suppliers of a wide range of authentic and high functional accessories and components for laptops, desktops, printers, Servers, computer accessories, Sales and Service. Since, we know that the complete functioning of the final product.
                                                  We ensure that all the components and accessories that we offer are reliable and authentic parts.
                                             </div>
 
@@ -266,7 +269,7 @@
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">Networking is another major part of our services. Managed Network Services are the services of management of networks by our IT professionals who provides service to our clients.
+                                            <div class="text mb-30 text-justify">Networking is another major part of our services. Managed Network Services are the services of management of networks by our IT professionals who provides service to our clients.
                                                  The scope of network services extends from LAN/WLAN management, Active / Passive network installation, Fiber laying LIU MC ONU ONT OLT total passive work, AP installation & unified communications to Network Consulting Services and Network implementation services.
                                             </div>
 
@@ -288,7 +291,7 @@
                 <div class="row">
                     <div class="col-lg-12 ht-tab-wrap">
                         <div class="tab-content ht-tab__content">
-                            <h4 class="text-center mt-40" id="epabx_installation">EPABX Installation</h4>
+                            <h4 class="text-center mt-40" id="fuel_monitoring_system">Fuel Monitoring Systems</h4>
                             <!--<div class="tab-pane fade show active" id="tab_list_06" role="tabpanel">-->
                             <div class="tab-history-wrap">
                                 <div class="row">
@@ -303,8 +306,9 @@
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">We are one of the well-distinguished companies in the market that is into presenting a quality approved range of EPABX System to our clients.
-                                                 These products are highly esteemed among clientele and acquired from reliable source of the market.
+                                            <div class="text mb-30 text-justify">Fuel management systems are designed to monitor and control fuel consumption within your fleet. 
+                                            They accurately measure and track fuel inventories and how fuel is dispensed.
+                                            This information is then stored in systems and reported to the manager through the use of web portals to provide this useful data.
                                             </div>
 
                                             <div class="tab-button">
@@ -340,7 +344,7 @@
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
                                         <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">Today businesses require agility to respond in the marketplace Information technology solutions empower them with such agility. However, there is tremendous pressure to reduce time and cost of acquiring technical resources.
+                                            <div class="text mb-30 text-justify">Today businesses require agility to respond in the marketplace Information technology solutions empower them with such agility. However, there is tremendous pressure to reduce time and cost of acquiring technical resources.
                                                  Computer info’s IT consulting team helps organizations better understand disruptive technologies, implement agile design principles, and take a strategic approach to disruptive technologies. Along with that we have senior professionals who can easily manage our projects by preparing a SOP & SOW.
                                             </div>
 
@@ -362,7 +366,7 @@
                 <div class="row">
                     <div class="col-lg-12 ht-tab-wrap">
                         <div class="tab-content ht-tab__content">
-                            <h4 class="text-center mt-40" id="rental_services">Rental Services</h4>
+                            <h4 class="text-center mt-40" id="cloud_computing">Cloud Computing</h4>
                             <!--<div class="tab-pane fade show active" id="tab_list_06" role="tabpanel">-->
                             <div class="tab-history-wrap">
                                 <div class="row">
@@ -370,15 +374,17 @@
                                         <div class="tab-history-image video-popup mt-30">
                                             <div class="single-popup-wrap">
                                                 <img class="img-fluid"
-                                                    src="assets/images/services/rental_service.jpg"
+                                                    src="assets/images/services/cloud-computing.jpg"
                                                     alt="">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-5 offset-lg-1 ">
-                                        <div class="tab-content-inner  mt-30">
-                                            <div class="text mb-30">We use to provide Servers, Desktops, Workstations, and Laptops etc in a rental period for only corporate events or long term projects.
-                                                 Also we provides IT manpower for any corporate events where client has a requirement of IT jobs like networking, data sharing, Video conference setup, online security access portal for users, etc. 
+                                        <div class="tab-content-inner mt-30">
+                                            <div class="text mb-30 text-justify">Cloud computing is the delivery of different services through the Internet. 
+                                            These resources include tools and applications like data storage, servers, databases, networking, and software. 
+                                            If an electronic device has access to the web, it has access to the data and the software programs to run it.
+                                            We provide different types of services like; Virtual desktop/Servers, PAAS, SAAS, IAAS, VPS, etc.
                                             </div>
 
                                             <div class="tab-button">
