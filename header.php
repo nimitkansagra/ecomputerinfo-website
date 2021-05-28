@@ -58,7 +58,7 @@
                                     <li><a href="index.php"><span>Home</span></a></li>
                                     <li><a href="about-us.php"><span>About Us</span></a></li>
                                     <li><a href="contact-us.php"><span>Contact Us</span></a></li>
-                                    <li><a href=""><span>Quick Pay</span></a></li>
+                                    <li><a href="https://tickets.ecomputerinfo.co.in/" target="_blank"><span>Admin Login</span></a></li>
                                 </ul>
                             </nav>
                         </div>

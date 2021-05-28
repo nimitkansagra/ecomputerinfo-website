@@ -477,7 +477,7 @@
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">Data Security</h5>
+                                            <h5 class="heading">Data Security & Disaster Management</h5>
                                             <div class="box-more-info">
                                                 <div class="text">Back up your database, store in a safe and secure place while still maintaining its accessibility.</div>
                                                 <div class="btn">

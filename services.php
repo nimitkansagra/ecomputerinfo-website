@@ -85,7 +85,7 @@
                                                  which prevents your organization from external malware attack also reduces from misuse of resources. Also we are expertise in storage solutions like NAS, SAS, Storage Server, 
                                                  backup solution, etc which helps your organization from unwanted data loss.</div>
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -124,7 +124,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -162,7 +162,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -200,7 +200,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -237,7 +237,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -274,7 +274,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -312,7 +312,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -349,7 +349,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
@@ -388,7 +388,7 @@
                                             </div>
 
                                             <div class="tab-button">
-                                                <a class="btn-text" href="contact-us.html">
+                                                <a class="btn-text" href="contact-us.php">
                                                     <span class="button-text">Let's get started <i
                                                             class="far fa-long-arrow-right"></i></span>
                                                 </a>
