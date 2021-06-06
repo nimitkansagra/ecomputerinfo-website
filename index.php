@@ -52,8 +52,8 @@
                                 <!--<p>Set the trends for desktop & server virtualization technology</p>-->
                                 <div class="hero-button mt-30">
                                     <a href="contact-us.php" class="btn btn--secondary">Contact Us</a>
-                                    <!--<div class="hero-popup-video video-popup">
-                                        <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" class="video-link">
+                                    <div class="hero-popup-video video-popup">
+                                        <a href="https://www.youtube.com/watch?v=sYEtRGPoRTk" class="video-link">
                                             <div class="video-content">
                                                 <div class="video-play">
                                                     <span class="video-play-icon">
@@ -63,7 +63,7 @@
                                                 <div class="video-text"> How we work</div>
                                             </div>
                                         </a>
-                                    </div>-->
+                                    </div>
                                 </div>
                             </div>
                         </div>
